@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Nzanzu MUHAYRWA Lwanzo** but everybody calls me **Victor** (and some of my closer friends call me 2Pac)!
+# 👋 Hi there, I'm **Nzanzu Lwanzo** !
 
 Welcome to my GitHub profile! I'm passionate about technology, code, and building solutions that make a difference. Here you'll find a mix of my personal projects, collaborations, and experiments as I continue to learn and grow as a developer.
 
