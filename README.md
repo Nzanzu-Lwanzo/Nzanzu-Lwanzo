@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about technology, code, and buildin
 
 ## 📫 How to Reach Me
 
-- Email: nzanzu.lwanzo@gmail.com
+- Email: nzanzu.lwanzo.work@gmail.com
 - Sorry, no X, no Intagram, no Facebook, no LinkedIn. Social media make me anxious and depressive. You can still reach me on Whatsapp ? +243-977-210-519
 - Check out my blog [here](https://olwanzo.netlify.app/)
 ---
