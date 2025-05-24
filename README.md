@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm **Nzanzu Lwanzo** !
 
 I'm a web developer and novelist based in the DRC.  Python and JavaScript are my favorite programming languages. And soon Rust. Interested in devops. Here you'll find a mix of my personal projects, collaborations, and experiments as I continue to learn and grow as a developer.
+
 ---
 
 ## 🚀 About Me
