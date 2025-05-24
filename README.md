@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm **Nzanzu Lwanzo** !
 
-Welcome to my GitHub profile! I'm passionate about technology, code, and building solutions that make a difference. Here you'll find a mix of my personal projects, collaborations, and experiments as I continue to learn and grow as a developer.
-
+I'm a web developer and novelist based in the DRC.  Python and JavaScript are my favorite programming languages. And soon Rust. Interested in devops. Here you'll find a mix of my personal projects, collaborations, and experiments as I continue to learn and grow as a developer.
 ---
 
 ## 🚀 About Me
