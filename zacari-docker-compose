@@ -1,0 +1,46 @@
+services:
+  database:
+    image: postgres:16
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - db_vol:/var/lib/postgresql/data # Must match where Postgres stores data
+  api:
+    image: zacari-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    depends_on:
+      - database
+    environment:
+      - NODE_ENV=developement
+    ports:
+      - "3000:3000"
+    develop:
+      watch:
+        - action: sync 
+          path: ./src
+          target: /app/src
+          initial_sync: true
+          ignore:
+            - node_modules/
+        - action: rebuild
+          path: package.json
+        - action: sync+restart
+          path: .env
+          target: /app/.env
+
+volumes:
+  db_vol:
