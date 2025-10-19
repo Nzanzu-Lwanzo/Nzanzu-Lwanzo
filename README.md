@@ -22,7 +22,7 @@ I'm a web developer and novelist based in the DRC.  Python and JavaScript are my
 - Programming Languages: **Python**, **JavaScript/TypeScript** (I'm planning to learn Rust)
 - Frameworks: **Node.js**, **React**, **NextJs**, **Express**, **NestJs**, **Django**, **Flask**
 - Databases: **PostgreSQL**, **MongoDB**, **MySQL**
-- Tools: **Git**, **VS Code**
+- Tools: **Git**, **VS Code**, **Docker**, **GitHub**
 - Others: Firebase, Sanity, Render, Netlify, Wordpress
 
 ---
