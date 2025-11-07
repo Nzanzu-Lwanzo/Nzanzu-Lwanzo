@@ -38,7 +38,7 @@ I'm a web developer and novelist based in the DRC.  Python and JavaScript are my
 
 - Email: nzanzu.lwanzo.work@gmail.com
 - Sorry, no X, no Intagram, no Facebook, no LinkedIn. Social media make me anxious and depressive. You can still reach me on Whatsapp ? +243-977-210-519
-- Check out my blog [here](https://olwanzo.netlify.app/)
+- Check out my blog [here](https://blog.lwanzo.site/)
 ---
 
 Thanks for stopping by! 🚀
