@@ -6,7 +6,7 @@ I'm a web developer and novelist based in the DRC.  Python and JavaScript are my
 
 ## 🚀 About Me
 
-- 💻 **Software Developer** with a keen interest in backend and full-stack development
+- 💻 **Software Developer** with a keen interest in backend development
 - 🌱 Currently exploring new technologies and frameworks, always learning
 - 🤝 Love collaborating on open-source and community-driven projects
 - 📖 Advocate for clean code, best practices, and lifelong learning
@@ -19,7 +19,7 @@ I'm a web developer and novelist based in the DRC.  Python and JavaScript are my
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: **Python**, **JavaScript/TypeScript** (I'm planning to learn Rust)
+- Programming Languages: **Python**, **JavaScript/TypeScript**
 - Frameworks: **Node.js**, **React**, **NextJs**, **Express**, **NestJs**, **Django**, **Flask**
 - Databases: **PostgreSQL**, **MongoDB**, **MySQL**
 - Tools: **Git**, **VS Code**, **Docker**, **GitHub**
@@ -37,7 +37,7 @@ I'm a web developer and novelist based in the DRC.  Python and JavaScript are my
 ## 📫 How to Reach Me
 
 - Email: nzanzu.lwanzo.work@gmail.com
-- Sorry, no X, no Intagram, no Facebook, no LinkedIn. Social media make me anxious and depressive. You can still reach me on Whatsapp ? +243-977-210-519
+- Sorry, no X, no Intagram, no Facebook, no LinkedIn. Social media make me anxious and depressive. You can still reach me on Whatsapp : +243-977-210-519
 - Check out my blog [here](https://blog.lwanzo.site/)
 ---
 
