@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Nzanzu Lwanzo** !
 
-I'm a web developer and novelist based in the DRC.  Python and JavaScript are my favorite programming languages. And soon Rust. Interested in devops. Here you'll find a mix of my personal projects, collaborations, and experiments as I continue to learn and grow as a developer.
+I'm a web developer and novelist based in the DRC. I am skilled in Python and JavaScript, and major libraries and frameworks around them (Django, React, Next, Fast API, NestJs, etc.). Interested in Open Source and DevOps. ALWAYS LEARNING!
 
 ---
 
@@ -11,18 +11,18 @@ I'm a web developer and novelist based in the DRC.  Python and JavaScript are my
 - 🤝 Love collaborating on open-source and community-driven projects
 - 📖 Advocate for clean code, best practices, and lifelong learning
 - Hobbies : hip hop culture 🎤, reading and writing 📚
-- Languages spoken : swahili, lingala, french (I even write novels), english and spanish (might sound false but yeah. Text me if you wanna test my skills.).
+- Languages spoken : swahili, lingala, french (I even write novels), english and spanish (might sound false but yeah. Text me if you want to test my skills.).
 - I'm single 😁
-- I'm the biggest fan of **2Pac Shakur** 
+- I'm the biggest fan of **2Pac Shakur** et **Kendrick Lamar**.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 - Programming Languages: **Python**, **JavaScript/TypeScript**
-- Frameworks: **Node.js**, **React**, **NextJs**, **Express**, **NestJs**, **Django**, **Flask**
+- Frameworks: **Node.js**, **React**, **NextJs**, **Express**, **NestJs**, **Django**, **FastApi**
 - Databases: **PostgreSQL**, **MongoDB**, **MySQL**
-- Tools: **Git**, **VS Code**, **Docker**, **GitHub**
+- Tools: **Git**, **VS Code**, **Docker**, **GitHub**, **Linux/Ubuntu**
 - Others: Firebase, Sanity, Render, Netlify, Wordpress
 
 ---
@@ -38,7 +38,7 @@ I'm a web developer and novelist based in the DRC.  Python and JavaScript are my
 
 - Email: nzanzu.lwanzo.work@gmail.com
 - Sorry, no X, no Intagram, no Facebook, no LinkedIn. Social media make me anxious and depressive. You can still reach me on Whatsapp : +243-977-210-519
-- Check out my blog [here](https://blog.lwanzo.site/)
+- Check out my blog [here](https://blog.lwanzo.site/). That's my intimate space, I don't write about programming very often.
 ---
 
 Thanks for stopping by! 🚀
