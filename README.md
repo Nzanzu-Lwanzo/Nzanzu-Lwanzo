@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Nzanzu Lwanzo** !
 
-I'm a web developer and novelist based in the DRC. I am skilled in Python and JavaScript, and major libraries and frameworks around them (Django, React, Next, Fast API, NestJs, etc.). Interested in Open Source and DevOps. ALWAYS LEARNING!
+I'm a web developer and novelist based in the DRC. I am skilled in Python and JavaScript. Interested in Open Source and DevOps.
 
 ---
 
